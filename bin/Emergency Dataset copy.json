@@ -1,0 +1,402 @@
+{
+    "0": [],
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    "1": [
+        {
+            "AppleSeed": "****"
+        },
+
+
+
+        {
+            "Social Project": "Projects that are or have potential to be Non Profit Organisation"
+        },
+
+
+
+        {
+            "Assignment": "Short assignment from college"
+        },
+
+
+
+        {
+            "Potential Company": "Personally led projects from club(s) that have potential to be Startup"
+        },
+
+
+
+        {
+            "College buddy": "To spend time with her/him"
+        },
+
+
+
+        {
+            "Club projects": "Small projects for the club(s)"
+        },
+
+
+
+        {
+            "Class group": "To spend time with group based on same class"
+        },
+
+
+
+        {
+            "Senior Errands": "Errands for Senior in club to develop fav  favorism or network"
+        },
+
+
+
+        {
+            "Learn to talk": "Read on 'Art of talking' or 'Negotiations'"
+        },
+
+
+
+        {
+            "Stress management": "Learn 'Problem solving' or 'Stress management'"
+        },
+
+
+
+        {
+            "Learn Business skills": "Learn about law, money or trading"
+        },
+
+
+
+        {
+            "Portfolio": "Develop projects for OpenSource for better Job profile"
+        }
+    ],
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    "2": [
+        {
+            "AppleSeed (1 hour)": "****"
+        },
+
+
+
+        {
+            "Hardware Project": "Hardware based startup"
+        },
+
+
+
+        {
+            "Social Project (1 hour)": "Projects that are or have potential to be Non Profit Organisation "
+        },
+
+
+
+        {
+            "Assignment": "from college"
+        },
+
+
+
+        {
+            "Potential Company (1 hour)": "Personally led projects from club(s) that have potential to be Startup"
+        },
+
+
+
+        {
+            "College buddy (1 hour)": "To spend time with her/him"
+        },
+
+
+
+        {
+            "M3": "To spend time with M3"
+        },
+
+
+
+        {
+            "Networking": "!"
+        },
+
+
+
+        {
+            "Club group": "To spend time witb group based on club."
+        },
+
+
+
+        {
+            "Apprentice": "To spend time with someone who has made you some sort of mentor"
+        },
+
+
+
+        {
+            "Hackathon & Competitions": "Preparaton for Club events"
+        },
+
+
+
+        {
+            "Club Projects (1 hour)": "Small projects for the club(s) (1 hour)"
+        },
+
+
+
+        {
+            "Class group (1 hour)": "To spend time with group based on same class"
+        },
+
+
+
+        {
+            "Lawn Tennis": ".."
+        },
+
+
+
+        {
+            "Senior Errands (1 hour)": "Errands for Senior in club to develop favorism or network     "
+        },
+
+
+
+        {
+            "Leetcode": "Practice coding skills"
+        },
+
+
+
+        {
+            "Class 11 & 12": "catch up"
+        },
+
+
+
+        {
+            "CS": "Learn difrent topics on CS"
+        },
+
+
+
+        {
+            "Psychology": "Read about 'Art of talking', 'Negotiations', 'Manipulation', 'Seduction' & 'Leadership'"
+        },
+
+
+
+        {
+            "Stress management (1 hour)": "Learn 'Problem solving' or 'Stress management'"
+        },
+
+
+
+        {
+            "Mathematics": "Learn advance Maths"
+        },
+
+
+
+        {
+            "Learn Business skills (1 hour)": "Learn about law, money or trading"
+        },
+
+
+
+        {
+            "Portfolio (1 hour)": "Develop projects for OpenSource for better Job profile "
+        }
+    ],
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    "3+": [
+        {
+            "AppleSeed (1 hour)": "****"
+        },
+
+
+
+        {
+            "Dating": "Crush/ Dating"
+        },
+
+
+
+        {
+            "Software Project": "Software startup"
+        },
+
+
+
+        {
+            "Hardware Project (2 hours)": "Hardware based startup"
+        },
+
+
+
+        {
+            "Social Project (1 hour)": "Projects that are or have potential to be Non Profit Organisation "
+        },
+
+
+
+        {
+            "Assignment (2 hours)": "from college"
+        },
+
+
+
+        {
+            "Potential Company (1 hour)": "Personally led projects from club(s) that have potential to be Startup"
+        },
+
+
+
+        {
+            "College buddy (1 hour)": "To spend time with her/him"
+        },
+
+
+
+        {
+            "M3 (2 hours)": "To spend time with M3"
+        },
+
+
+
+        {
+            "Networking (2 hours)": "!"
+        },
+
+
+
+        {
+            "Club group (2 hours)": "To spend time witb group based on club."
+        },
+
+
+
+        {
+            "Apprentice (2 hours)": "To spend time with someone who has made you some sort of mentor"
+        },
+
+
+
+        {
+            "Hackathon & Competitions (2 hours)": "Preparaton for Club events"
+        },
+
+
+
+        {
+            "Club Projects (1 hour)": "Small projects for the club(s) (1 hour)"
+        },
+
+
+
+        {
+            "Class group (1 hour)": "To spend time with group based on same class"
+        },
+
+
+
+        {
+            "Lawn Tennis (2 hours)": ".."
+        },
+
+
+
+        {
+            "Senior Errands (1 hour)": "Errands for Senior in club to develop favorism or network     "
+        },
+
+
+
+        {
+            "Leetcode (2 hours)": "Practice coding skills"
+        },
+
+
+
+        {
+            "Class 11 & 12 (2 hours)": "catch up"
+        },
+
+
+
+        {
+            "CS": "Learn difrent topics on CS"
+        },
+
+
+
+        {
+            "Particle physics": "Learn about physics or Particle physics"
+        },
+
+
+
+        {
+            "Psychology (2 hours)": "Read about 'Art of talking', 'Negotiations', 'Manipulation', 'Seduction' & 'Leadership'"
+        },
+
+
+
+        {
+            "Stress management (1 hour)": "Learn 'Problem solving' or 'Stress management'"
+        },
+
+
+
+        {
+            "Mathematics": "Learn advance Maths"
+        },
+
+
+
+        {
+            "Learn Business skills (1 hour)": "Learn about law, money or trading"
+        },
+
+
+
+        {
+            "Portfolio (1 hour)": "Develop projects for OpenSource for better Job profile "
+        }
+    ]
+}
